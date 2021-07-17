@@ -9,5 +9,5 @@ function back() {
 };
 
 if (localStorage.getItem('youAre') === null) {
-    localStorage.setItem('youAre', 'Sexy');
+    localStorage.setItem('youAre', 'Cool');
 }
